@@ -2,6 +2,6 @@
 
 Dashboard create as part of assignment given by `Chaabi` organisation.
 
-Deployed Link-
+Deployed Link- https://chaabi-assignment-frontend.netlify.app/
 
 Tech Stack- ReactJs, CSS
